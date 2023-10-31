@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smhtkn&show_icons=true&locale=en" alt="smhtkn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smhtkn&" alt="smhtkn" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=smhtkn&theme=default&show_icons=true&hide_border=true&count_private=true" alt="smhtkn" /></p>
